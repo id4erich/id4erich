@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hello
 
-My name is Yeongbok.
+My name is Youngbok.
 I run a small software development company in Korea.
 
 Our company develops civil engineering design programs, as well as Unity subway line design and spillway design programs.
